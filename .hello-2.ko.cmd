@@ -1,0 +1,1 @@
+cmd_/home/aies/beagle_prj/Chapter2.HelloWorld/hello-2.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.35-27-generic/scripts/module-common.lds --build-id -o /home/aies/beagle_prj/Chapter2.HelloWorld/hello-2.ko /home/aies/beagle_prj/Chapter2.HelloWorld/hello-2.o /home/aies/beagle_prj/Chapter2.HelloWorld/hello-2.mod.o
